@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685573866 source:/home/snarkydata/udemy-courses/C-Courses/Advanced-C-Programming-Pointers/Section-02-Addresses-and-Indirection/09-Relationship-Pointers-and-Arrays/main.c
+	<stdio.h>
+	<stdlib.h>
+
