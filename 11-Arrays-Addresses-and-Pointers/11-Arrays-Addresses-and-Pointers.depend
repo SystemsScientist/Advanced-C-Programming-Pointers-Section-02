@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685657779 source:/home/snarkydata/udemy-courses/C-Courses/Advanced-C-Programming-Pointers/Section-02-Addresses-and-Indirection/11-Arrays-Addresses-and-Pointers/main.c
+	<stdio.h>
+	<stdlib.h>
+
