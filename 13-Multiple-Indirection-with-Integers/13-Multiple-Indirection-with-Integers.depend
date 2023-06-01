@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685663053 source:/home/snarkydata/udemy-courses/C-Courses/Advanced-C-Programming-Pointers/Section-02-Addresses-and-Indirection/13-Multiple-Indirection-with-Integers/main.c
+	<stdio.h>
+	<stdlib.h>
+
